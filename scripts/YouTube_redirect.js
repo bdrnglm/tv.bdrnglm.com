@@ -9,7 +9,7 @@ href = `https://www.youtube.com/`;
 if (day != null) {
 	// If so check if it ranges from 0 to the biggest video number
 	if (day > 0 && day <= days.length) {
-		// If so appends to the new URL the ID and list's index of the video
+		// If so appends to the new URL the ID and playlist's index of the video
 		v = days[day - 1];
 	  index = day;
 		href += `watch?v=${v}&index=${index}&`;

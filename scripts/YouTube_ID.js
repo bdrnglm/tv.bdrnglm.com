@@ -20,6 +20,5 @@ var days = [
   'mpSPBZFoCEw',
   'hYyq-TmrsJw',
   'dppiqoeeexc',
-  'jeE1rEeWprM',
-  'WARpPSe7Rb0'
+  'jeE1rEeWprM'
 ];
